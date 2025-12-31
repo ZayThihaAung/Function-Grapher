@@ -62,7 +62,7 @@ Publishing to PyPI (brief)
 Demo 
 ![demo plceholder](docs/assets/demo.png)
 or 
-[!Watch demo on Canva](link)
+[!Watch demo on Canva](https://www.canva.com/design/DAG9EqmcTgU/HnICTeXqDlGqO5o6AGUgDw/edit?utm_content=DAG9EqmcTgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Usage examples
 - Plot a quadratic: set coefficients a, b, c
